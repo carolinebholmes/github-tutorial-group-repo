@@ -24,3 +24,4 @@ Everyone should create their own branch to edit this!
 | Gabriella Greiner | ggg3xv  | Interned at Clark Construction  |
 | Anisha Kumar | ak4tr  | Interned @ CGI Federal |
 | Caroline Holmes | cbh4ct | Interned @ Microsoft |
+| Jodie Ryu | jjr6ak  | Interned @ IST Research & saw Eclipse in Nashville, TN |
