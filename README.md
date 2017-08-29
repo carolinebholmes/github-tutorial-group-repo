@@ -41,4 +41,5 @@ Everyone should create their own branch to edit this!
 | Li-Chian Wang | lw3qc | Interned @ Noblis |
 | Will Cricchi | wcc4ch | Interned @ CapTech Consulting |
 | Peter Farkas | pjf3av | Interned @ Ridgeline International in Tysons Corner |
+| Ma'ayan Doron | md9bc | Interned @ Citi |
 
