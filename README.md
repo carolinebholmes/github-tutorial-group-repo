@@ -14,6 +14,7 @@ Everyone should create their own branch to edit this!
 | Joseph Tobin   | jat9kf     | Interned @ Microsoft                     |
 | Jonathan Lowe  | jl4ge      | Chilled with family                     |
 | Ahmed Youssef  | ay6xp      | Interned @ Higher Logic                 |
+| Matias Rietig  | mjr9r      | Took exams back home & travelled to US  |
 | Paul Ammer     | pda6ne       | Interned @ Northrop Grumman             |
 | Brigham Bangerter | bb3uc    | Interned @ IBM                         |
 | Victoria Li    | vl4kz      | Interned @ Noblis                       |
