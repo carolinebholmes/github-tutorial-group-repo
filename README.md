@@ -38,3 +38,4 @@ Everyone should create their own branch to edit this!
 | Michael Chang | mhc6kp | Studied abroad @ Korea University |
 | Gabriel Groover | gtg3vv | Interned @ Mitre |
 | Li-Chian Wang | lw3qc | Interned @ Noblis |
+| Will Cricchi | wcc4ch | Interned @ CapTech Consulting |
