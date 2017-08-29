@@ -32,3 +32,4 @@ Everyone should create their own branch to edit this!
 | Seven Starosta | sbs3bx | Interned @ University of Sao Paulo, Brazil |
 | Leonard Ramsey | lr3hj  | Interned @ Northrop Grumman |
 | Erin Alleva | eaa4de | Researched VR @ UVA |
+| Shannon Darroch | sed5qg | visited mountains in Franklin, NC |
