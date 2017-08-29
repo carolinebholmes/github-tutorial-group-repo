@@ -32,6 +32,7 @@ Everyone should create their own branch to edit this!
 | Tyler Hutson | tth5rv    | Interned @ The College Board               |
 | Seven Starosta | sbs3bx | Interned @ University of Sao Paulo, Brazil |
 | Leonard Ramsey | lr3hj  | Interned @ Northrop Grumman |
+| Ryan Donovan  | rad9vy  | Interned @ Jibo |
 | Erin Alleva | eaa4de | Researched VR @ UVA |
 | Tim Sander | tss3dn | Interned @ Microsoft |
 | Shannon Darroch | sed5qg | visited mountains in Franklin, NC |
