@@ -48,3 +48,4 @@ Everyone should create their own branch to edit this!
 | Marissa Lee | myl2vu | Interned @ McAfee |
 | Jodie Ryu | jjr6ak  | Interned @ IST Research & saw Eclipse in Nashville, TN |
 | Laith Hasanian | laithh  | Interned @ Facebook |
+| Timothy Liu |tjl9tq     | Took summer classes at UVA |
