@@ -33,6 +33,7 @@ Everyone should create their own branch to edit this!
 | Seven Starosta | sbs3bx | Interned @ University of Sao Paulo, Brazil |
 | Leonard Ramsey | lr3hj  | Interned @ Northrop Grumman |
 | Erin Alleva | eaa4de | Researched VR @ UVA |
+| Tim Sander | tss3dn | Interned @ Microsoft |
 | Shannon Darroch | sed5qg | visited mountains in Franklin, NC |
 | Naomi-Grace Panlaqui | ncp3qm | Visited Denver and Toronto. Interned @ BAH |
 | Michael Chang | mhc6kp | Studied abroad @ Korea University |
@@ -40,3 +41,4 @@ Everyone should create their own branch to edit this!
 | Li-Chian Wang | lw3qc | Interned @ Noblis |
 | Will Cricchi | wcc4ch | Interned @ CapTech Consulting |
 | Peter Farkas | pjf3av | Interned @ Ridgeline International in Tysons Corner |
+
