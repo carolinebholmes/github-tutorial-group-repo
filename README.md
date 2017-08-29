@@ -45,3 +45,4 @@ Everyone should create their own branch to edit this!
 | Ma'ayan Doron | md9bc | Interned @ Citi |
 | Kevin Warshaw | kaw7cw | Interned @ UVA |
 | Nikki Pope | np4ft | conducted research at UVA VR lab |
+| Marissa Lee | myl2vu | Interned @ McAfee |
