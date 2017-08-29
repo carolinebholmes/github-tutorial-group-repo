@@ -23,4 +23,24 @@ Everyone should create their own branch to edit this!
 | Fan Feng     | ff9sd      | Conducted Research at Predictive Technology Lab  |
 | Gabriella Greiner | ggg3xv  | Interned at Clark Construction  |
 | Anisha Kumar | ak4tr  | Interned @ CGI Federal |
+| Kathleen Ross | kr3ad | Went on a cross-country road trip |
+| Charles Hong | csh6cw | Went on a visit to South Korea |
+| Timothy Davison | tfd2xq    | Interned @ Capital Group                |
+| Tyler Hutson | tth5rv    | Interned @ The College Board               |
+| Seven Starosta | sbs3bx | Interned @ University of Sao Paulo, Brazil |
+| Leonard Ramsey | lr3hj  | Interned @ Northrop Grumman |
+| Ryan Donovan  | rad9vy  | Interned @ Jibo |
+| Erin Alleva | eaa4de | Researched VR @ UVA |
+| Tim Sander | tss3dn | Interned @ Microsoft |
+| Shannon Darroch | sed5qg | visited mountains in Franklin, NC |
+| Naomi-Grace Panlaqui | ncp3qm | Visited Denver and Toronto. Interned @ BAH |
+| Michael Chang | mhc6kp | Studied abroad @ Korea University |
+| Gabriel Groover | gtg3vv | Interned @ Mitre |
+| Li-Chian Wang | lw3qc | Interned @ Noblis |
+| Will Cricchi | wcc4ch | Interned @ CapTech Consulting |
+| Peter Farkas | pjf3av | Interned @ Ridgeline International in Tysons Corner |
+| Ma'ayan Doron | md9bc | Interned @ Citi |
+| Kevin Warshaw | kaw7cw | Interned @ UVA |
+| Nikki Pope | np4ft | conducted research at UVA VR lab |
+| Marissa Lee | myl2vu | Interned @ McAfee |
 | Jodie Ryu | jjr6ak  | Interned @ IST Research & saw Eclipse in Nashville, TN |
