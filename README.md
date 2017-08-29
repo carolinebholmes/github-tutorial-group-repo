@@ -14,6 +14,7 @@ Everyone should create their own branch to edit this!
 | Joseph Tobin   | jat9kf     | Interned @ Microsoft                     |
 | Jonathan Lowe  | jl4ge      | Chilled with family                     |
 | Ahmed Youssef  | ay6xp      | Interned @ Higher Logic                 |
+| Matias Rietig  | mjr9r      | Took exams back home & travelled to US  |
 | Paul Ammer     | pda6ne       | Interned @ Northrop Grumman             |
 | Brigham Bangerter | bb3uc    | Interned @ IBM                         |
 | Victoria Li    | vl4kz      | Interned @ Noblis                       |
@@ -33,4 +34,10 @@ Everyone should create their own branch to edit this!
 | Leonard Ramsey | lr3hj  | Interned @ Northrop Grumman |
 | Erin Alleva | eaa4de | Researched VR @ UVA |
 | Tim Sander | tss3dn | Interned @ Microsoft |
+| Shannon Darroch | sed5qg | visited mountains in Franklin, NC |
+| Naomi-Grace Panlaqui | ncp3qm | Visited Denver and Toronto. Interned @ BAH |
+| Michael Chang | mhc6kp | Studied abroad @ Korea University |
+| Gabriel Groover | gtg3vv | Interned @ Mitre |
+| Li-Chian Wang | lw3qc | Interned @ Noblis |
+| Will Cricchi | wcc4ch | Interned @ CapTech Consulting |
 
