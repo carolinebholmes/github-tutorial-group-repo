@@ -50,3 +50,4 @@ Everyone should create their own branch to edit this!
 | Laith Hasanian | laithh  | Interned @ Facebook |
 | Timothy Liu |tjl9tq     | Took summer classes at UVA |
 | Thomas Baker | tjb9dc | Interned @ Microsoft |
+| Daniel Ju | dj6nx | Interned @ Yext |
