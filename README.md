@@ -35,3 +35,4 @@ Everyone should create their own branch to edit this!
 | Erin Alleva | eaa4de | Researched VR @ UVA |
 | Shannon Darroch | sed5qg | visited mountains in Franklin, NC |
 | Naomi-Grace Panlaqui | ncp3qm | Visited Denver and Toronto. Interned @ BAH |
+| Michael Chang | mhc6kp | Studied abroad @ Korea University |
