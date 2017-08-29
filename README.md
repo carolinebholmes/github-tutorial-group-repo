@@ -46,3 +46,4 @@ Everyone should create their own branch to edit this!
 | Kevin Warshaw | kaw7cw | Interned @ UVA |
 | Nikki Pope | np4ft | conducted research at UVA VR lab |
 | Marissa Lee | myl2vu | Interned @ McAfee |
+| Jodie Ryu | jjr6ak  | Interned @ IST Research & saw Eclipse in Nashville, TN |
