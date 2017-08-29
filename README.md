@@ -30,3 +30,4 @@ Everyone should create their own branch to edit this!
 | Tyler Hutson | tth5rv    | Interned @ The College Board               |
 | Seven Starosta | sbs3bx | Interned @ University of Sao Paulo, Brazil |
 | Leonard Ramsey | lr3hj  | Interned @ Northrop Grumman |
+|Ryan Donovan|  rad9vy  | Interned @ Jibo |
