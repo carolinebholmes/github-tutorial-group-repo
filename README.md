@@ -49,3 +49,4 @@ Everyone should create their own branch to edit this!
 | Jodie Ryu | jjr6ak  | Interned @ IST Research & saw Eclipse in Nashville, TN |
 | Laith Hasanian | laithh  | Interned @ Facebook |
 | Timothy Liu |tjl9tq     | Took summer classes at UVA |
+| Thomas Baker | tjb9dc | Interned @ Microsoft |
