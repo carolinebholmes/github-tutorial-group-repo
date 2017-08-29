@@ -39,3 +39,4 @@ Everyone should create their own branch to edit this!
 | Gabriel Groover | gtg3vv | Interned @ Mitre |
 | Li-Chian Wang | lw3qc | Interned @ Noblis |
 | Will Cricchi | wcc4ch | Interned @ CapTech Consulting |
+| Peter Farkas | pjf3av | Interned @ Ridgeline International in Tysons Corner |
