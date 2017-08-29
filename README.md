@@ -37,3 +37,4 @@ Everyone should create their own branch to edit this!
 | Naomi-Grace Panlaqui | ncp3qm | Visited Denver and Toronto. Interned @ BAH |
 | Michael Chang | mhc6kp | Studied abroad @ Korea University |
 | Gabriel Groover | gtg3vv | Interned @ Mitre |
+| Li-Chian Wang | lw3qc | Interned @ Noblis |
