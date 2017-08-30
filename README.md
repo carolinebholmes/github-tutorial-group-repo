@@ -51,3 +51,4 @@ Everyone should create their own branch to edit this!
 | Timothy Liu |tjl9tq     | Took summer classes at UVA |
 | Thomas Baker | tjb9dc | Interned @ Microsoft |
 | Daniel Ju | dj6nx | Interned @ Yext |
+| Yixuan Qian | yq5ah | Visited NYC & Philadelphia |
