@@ -52,4 +52,5 @@ Everyone should create their own branch to edit this!
 | Thomas Baker | tjb9dc | Interned @ Microsoft |
 | Daniel Ju | dj6nx | Interned @ Yext |
 | Yixuan Qian | yq5ah | Visited NYC & Philadelphia |
+| Atoshem Ghebrehiwet | atg3ds | Interned @ Fannie Mae |
 | Asay Haile | ah5au | Interned @ BAE Systems |
